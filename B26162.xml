@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Mayor. Whereas among the many enormities that are too frequently practised within this City and the liberties thereof, I have taken particular notice of the profanation of the Lords day by the so general resort to publick houses, ...</title>
+            <author>City of London (England). Lord Mayor.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26162</idno><idno type="EEBO-CITATION">99826241</idno>
+  <idno type="VID">206024</idno>
+  <idno type="EEBO-PROQUEST">2240889454</idno>
+  
+            <idno type="STC">Wing L2885Z</idno>
+            <idno type="PROQUEST">99826241</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826241e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26162)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206024)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1762:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Mayor. Whereas among the many enormities that are too frequently practised within this City and the liberties thereof, I have taken particular notice of the profanation of the Lords day by the so general resort to publick houses, ...</title>
+                  <author>City of London (England). Lord Mayor.</author>
+                  <author>Ward, Patience, Sir, 1629-1696. aut</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft, printer to the honourable City of London,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Title from heading and first lines of text.</note>
+                  <note>Signed: Wagstaffe.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sunday --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:206024:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of London</figDesc>
+               </figure> By the Mayor.</head>
+            <head>
+               <hi>To the Alderman of the Ward of</hi>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS among the many Enormities that are too frequently practised within this City and the Liberties thereof, I have taken particular notice of the Profanation of the Lords day by the so general Resort to Publick houses, where great part of the day is taken up and wasted in idle or unseasonable Discourses, if not worse imployment. Having also heard frequent complaint made of a strange sort of Women (called Night-walkers) who go about the Streets in the Evening, tempting and inticeing Apprentices and others to Lewdness; I have purposed by Gods blessing and the con<g ref="char:EOLhyphen"/>current Endeavours of your Self and the rest of my Brethren the Aldermen, to punish and suppress the same as far as in me lies. And I do earnestly desire and entreat you to take the best care you can for preventing thereof within your Ward: And there being a late Act of Parliament made in the <hi>29<seg rend="sup">th.</seg>
+               </hi> Year of his Majesties Reign, for better Observation of the Lords day, whereby it is Enacted, <hi>That all Persons shall on every Lords day apply themselves to the Observation of the same, by exercising themselves thereon, in the Duties of Piety and true Religion, publickly and privately, and that no Person shall do or exercise any business or work of their ordinary Callings on any part of the same day (works of Necessity and Charity excepted) and that every Person of the Age of Fourteen Years or upwards Offending in the Premisses, shall for every such Offence forfeit the Sum of Five shillings to be Levyed by Distress by any Constable or the Church-wardens of the Parish upon a Warrant from a Justice of Peace, after the party shall be Convicted by view of such Justice, or the Parties Confession, or the Oaths of one or more Witnesses, and being Prosecuted for the same within Ten days after the Offence Committed.</hi> Notwith<g ref="char:EOLhyphen"/>standing which Act, and a Precept lately Issued out for the Observation thereof; Vintners and Keepers of Ale-houses and Coffee-houses do take liberty to follow their Callings on that day, and entertain Persons
+<pb facs="tcp:206024:2"/> in their Houses, contrary to the intention of the said Act; That the same therefore may be better Observed hereafter, I earnestly desire You, by Your Beadle or otherwise, to cause warning once more to be given to all Vintners, keepers of Ale-houses, Coffee-houses, and other Publick-houses within Your Ward, that they forbear to harbour Guests in their Houses on that day (other than such Victuallers as Dress and Sell Meat in their Houses for such as cannot otherwise be provided, which is exempted out of the said Act.) And I earnestly recommend to You, that the Constables and the Church-wardens of the several Parishes within Your Ward may have notice given them, and be directed to Inform Me or some other Iustice of Peace from time to time of all Persons that shall Offend herein, to the end the Penalties aforesaid may be Levyed upon them; and their Licenses (if Ale-house or Coffee-house keepers) be taken from them. And I likewise desire You to give a strict Charge to the said Constables that they Carefully and Diligently Ob<g ref="char:EOLhyphen"/>serve and Apprehend both all such Night-walkers as aforesaid, and bring them before Me or some other Iustice of Peace to be dealt withal and punished according to their demerits; as also to Seize and Apprehend all Vagrants and Common Beggars who are Idle and Vseless, and deserve to be punished as the Law hath directed, by Whipping, and then sending them from Parish to Parish to the place where they were Born, if known, else to the place where they last dwelt for a year, to be set to work, or if that be not known, then to the Parish they last past through without punishment. Which the Constable is to do, and the Law enjoyns upon him on pain of forfeiture of <hi>Ten shillings</hi> for every failer, or he may be Indicted.</p>
+            <p>And whereas it was given Me in Charge by the Lord Chief Baron of the <hi>Exchequer,</hi> when I took My Oath at <hi>Westminster,</hi> That due care might be had of the Watches within this City: I do therefore recom<g ref="char:EOLhyphen"/>mend to You, That the said Constables may be further enjoyned to Observe the times prescribed for Set<g ref="char:EOLhyphen"/>ting and Rising of their Watches, and to have constantly their full Numbers of Watchmen, according to the Act of Common Council made in the Mayoralty of Sir <hi>John Robinson,</hi> on pain to be indicted and prosecuted for every default therein; And that your Beadle do distribute Copies hereof to the several Per<g ref="char:EOLhyphen"/>sons concerned. In all which particulars aforesaid, I hope you will be very Careful, being matters where<g ref="char:EOLhyphen"/>in the Honour of God, and the Publick Weal of this City are so greatly concerned.</p>
+            <closer>
+               <dateline>Given <date>this 2<seg rend="sup">d.</seg> day of <hi>November</hi> 1681. And in the 33<seg rend="sup">th.</seg> year of his Majesties Reign.</date>
+               </dateline>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Samuel Roycroft,</hi> Printer to the Honourable City of <hi>LONDON.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
